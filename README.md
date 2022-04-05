@@ -1,8 +1,9 @@
 # Ares Systems
 
+<p align="center">
 ## Nosotros 👥
 **Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre**
-
+</p>
 
 ## Donaciones 💲
 Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
