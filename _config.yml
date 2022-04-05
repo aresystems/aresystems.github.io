@@ -1,0 +1,25 @@
+remote_theme: tuur29/pages-themes-cayman
+theme: jekyll-theme-cayman
+lang: es-ES
+title: Ares Systems
+description: Una fundación sin ánimo de lucro más
+#logo: /docs/assets/logo.png
+#logo_url: https://i.imgur.com/IOHl7OT.png
+show_downloads: true
+darkmode: true
+hide_first_title: true
+#colors:
+#    gradient_left: "#F73718"
+#    gradient_right: "#A42821"
+#    header: "#fff"
+#    android_theme: "#000"
+#    link: "#1e6bb8"
+#    section_title: "#f73718"
+buttons:
+    zip_url: http://example.com/
+    zip_title: Zeus OS
+    zip_hide: false
+    tar_url: http://example.com/
+    tar_title: Ares OS
+    tar_hide: false
+    github_hide: true
