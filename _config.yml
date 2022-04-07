@@ -18,6 +18,7 @@ hide_first_title: true
 buttons:
     zip_url: http://example.com/
     zip_title: Zeus OS
+             (windowsx64)
     zip_hide: false
     tar_url: http://example.com/
     tar_title: Ares OS
