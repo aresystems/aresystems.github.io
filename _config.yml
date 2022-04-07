@@ -18,9 +18,10 @@ hide_first_title: true
 buttons:
     zip_url: http://example.com/
     zip_title: Zeus OS
-             (windowsx64)
+             (windows-amd64)
     zip_hide: false
     tar_url: http://example.com/
     tar_title: Ares OS
+             (debian11-i386)
     tar_hide: false
     github_hide: true
