@@ -3,7 +3,7 @@
 ## Nosotros 👥
 Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
 
-## Ares os
+## Ares os 🟣
 Ares hueso es una distro basada en mx linux 21, utiliza la rquitectura i386 y está pensada para que funcione de forma óptima en todo tipo de equipos sobre tener nuestro toque de personalización
 
  <a href=""><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.jpg" width="700" height="400"> </a>
