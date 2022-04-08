@@ -20,8 +20,8 @@ Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
 
 ## Contacta 📞
   Si tienes cualquier pregunta contaca con nostros mediante este boton
-<p align="center>
-  <a href="mailto:aresystems@protonmail.com?"> <img src="https://protonmail.com/images/media/security/secured-by-protonmail-white.png"> </a>
+<p align="center">
+  <a href="mailto:aresystems@protonmail.com?"><img src="https://protonmail.com/images/media/security/secured-by-protonmail-white.png"></a>
 </p>
 
 <footer>
