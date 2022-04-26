@@ -12,9 +12,9 @@ Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y est�
 
 requisitos minimos
 
-25GB HDD
-1GB RAM
-cpu doble núcleo a 2 GHz o más
+-25GB HDD                                                                                                        
+-1GB RAM                                                                                                          
+-cpu doble núcleo a 2 GHz o más
  
 ## Donaciones 💲
 Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
