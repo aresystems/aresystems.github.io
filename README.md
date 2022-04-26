@@ -9,6 +9,12 @@ Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y est�
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.jpg"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.jpg" width="600" height="400"></a>
 </p>
+
+requisitos minimos
+
+25GB HDD
+1GB RAM
+cpu doble núcleo a 2 GHz o más
  
 ## Donaciones 💲
 Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
