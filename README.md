@@ -3,12 +3,15 @@
 ## Nosotros 👥
 Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
 
-## Ares os 🟣
+
 
 <header class="header">
 	<h1 class="glitched">Glitch</h1>
 </header>
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
+
+span the
+span deepend
 
 Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
 
