@@ -45,6 +45,33 @@ header.header{
 		font-weight: 900;
 	}
 }
+
+
+
+$background-color: #F9F8F8;
+$headline-color: #222222;
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Raleway', sans-serif;
+	background: $background-color;
+}
+header.header{
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	transform: translateY(-50%);
+	h1{
+		font-size: 8rem;
+		color: $headline-color;
+		text-align: center;
+		margin-top: 0;
+		text-transform: uppercase;
+		font-weight: 900;
+	}
+}
 .glitch-window{
 	position: absolute;
 	top: 0;
@@ -97,21 +124,27 @@ header.header{
 
 
 
+//Inspiration Button
+.inspiration-button{
+	font-family: Helvetica, sans-serif;
+	position: fixed;
+	display: inline-block;
+	z-index: 100;
+	bottom: 1rem;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	color: white;
+	text-decoration: none;
+	padding: 0.75rem 1rem;
+	border-radius: 80px;
+	background: linear-gradient(270deg,#1e80dc,#c61590);
+	//From Instagram...thanks
+	transition: transform 250ms ease;
+	&:hover, &:focus, &:active{
+		transform: translate(-50%, -10%);
 
-
-body
-  text-align center
-  background #141414 url(https://unsplash.it/1228/880?image=302)
-  background-size cover
-  background-position 50%
-  height 100vh
-
-svg
-  position absolute
-  top 50%
-  margin-top -60px
-  left 50%
-  margin-left -225px
+	}
+}
 
 
 // Code
