@@ -2,7 +2,7 @@
 
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
-		<text text-anchor="middle" x="50%" y="80%">Aresystems</text>
+		<text text-anchor="middle" x="50%" y="80%">Aresy</text>
 	</symbol>
 
 	<g class = "g-ants">
