@@ -46,41 +46,6 @@ header.header{
 	}
 }
 
-$background: black;
-$foreground: white;
-
-@import 'bourbon';
-
-@mixin gitchText($offset, $text) {
-  content: $text;
-  position: absolute;
-  left: $offset;
-  top: $offset;
-  clip: rect(0, 900px, 0, 0); 
-  background-color: $background;
-  color: $foreground;
-  animation: glitch 3s infinite alternate-reverse;
-  animation-delay: 4s;
-}
-
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: $background;
-  color: $foreground; 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Medula One', sans-serif;
-  font-size: 3em;
-  @include user-select(none);
-}
-
-span:first-child {
-  margin-right: 20px;
-}
-
 span:last-child {
   color: $background;
   background-color: $background;
