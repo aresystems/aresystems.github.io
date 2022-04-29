@@ -1,8 +1,12 @@
 # Ares Systems
 
+## Nosotros 👥
+Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
+
+## Ares os 🟣
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
-		<text text-anchor="middle" x="50%" y="80%">AS</text>
+		<text text-anchor="middle" x="50%" y="80%">Ares</text>
 	</symbol>
 
 	<g class = "g-ants">
@@ -13,11 +17,6 @@
 		<use xlink:href="#s-text" class="text-copy"></use>
 	</g>
 </svg>
-
-## Nosotros 👥
-Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
-
-## Ares os 🟣
 Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
 
 <p align="center">
