@@ -10,9 +10,7 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 </header>
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
 
-span the
-span deepend
-
+#Ares os
 Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
 
 <p align="center">
