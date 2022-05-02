@@ -12,9 +12,9 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
 
 
-<svg viewBox="0 0 960 300">
+<svg viewBox="0 0 960 30">
 	<symbol id="s-text">
-		<text text-anchor="middle" x="20%" y="40%">Ares os</text>
+		<text text-anchor="middle" x="20%" y="50%">Ares os</text>
 	</symbol>
 
 	<g class = "g-ants">
