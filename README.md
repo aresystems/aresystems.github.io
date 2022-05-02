@@ -12,6 +12,7 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
 
 
+
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
 		<text text-anchor="middle" x="50%" y="90%">Ares os</text>
@@ -38,7 +39,8 @@ requisitos minimos
 -1GB RAM                                                                                                          
 -cpu doble núcleo a 2 GHz o más
 
-//zeus
+
+
 
 <svg viewBox="0 0 960 300">
 	<symbol id="h-text">
@@ -70,7 +72,7 @@ Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
 ## Contacta 📞
 Si tienes cualquier pregunta contaca con nostros mediante este boton
 <p align="center">
-  <a href="mailto:aresystems@protonmail.com?"><img src="https://protonmail.com/images/media/security/secured-by-protonmail-white.png"></a>
+  <a id="imagen" href="mailto:aresystems@protonmail.com?"><img src="https://protonmail.com/images/media/security/secured-by-protonmail-white.png"></a>
 </p>
 
 <footer>
