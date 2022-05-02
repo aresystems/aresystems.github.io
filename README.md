@@ -14,7 +14,7 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
-		<text text-anchor="right" x="50%" y="80%">Ares os</text>
+		<text text-anchor="left" x="50%" y="90%">Ares os</text>
 	</symbol>
 
 	<g class = "g-ants">
