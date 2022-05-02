@@ -46,11 +46,11 @@ requisitos minimos
 	</symbol>
 
 	<g class = "g-ants">
-		<use xlink:href="#h-text" class="text-copy"></use>
-		<use xlink:href="#h-text" class="text-copy"></use>
-		<use xlink:href="#h-text" class="text-copy"></use>
-		<use xlink:href="#h-text" class="text-copy"></use>
-		<use xlink:href="#h-text" class="text-copy"></use>
+		<use xlink:href="#h-text" class="tex-copy"></use>
+		<use xlink:href="#h-text" class="tex-copy"></use>
+		<use xlink:href="#h-text" class="tex-copy"></use>
+		<use xlink:href="#h-text" class="tex-copy"></use>
+		<use xlink:href="#h-text" class="tex-copy"></use>
 	</g>
 </svg>
 
