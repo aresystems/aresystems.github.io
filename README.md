@@ -38,6 +38,20 @@ requisitos minimos
 -1GB RAM                                                                                                          
 -cpu doble núcleo a 2 GHz o más
 
+<svg viewBox="0 0 960 300">
+	<symbol id="h-text">
+		<text text-anchor="middle" x="50%" y="80%">Ares os</text>
+	</symbol>
+
+	<g class = "g-ants">
+		<use xlink:href="#h-text" class="text-copy"></use>
+		<use xlink:href="#h-text" class="text-copy"></use>
+		<use xlink:href="#h-text" class="text-copy"></use>
+		<use xlink:href="#h-text" class="text-copy"></use>
+		<use xlink:href="#h-text" class="text-copy"></use>
+	</g>
+</svg>
+
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
 </p>
