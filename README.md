@@ -37,6 +37,11 @@ requisitos minimos
 -25GB HDD                                                                                                        
 -1GB RAM                                                                                                          
 -cpu doble núcleo a 2 GHz o más
+
+<p align="center">
+ <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
+</p>
+
  
 ## Donaciones 💲
 Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
