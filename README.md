@@ -38,9 +38,11 @@ requisitos minimos
 -1GB RAM                                                                                                          
 -cpu doble núcleo a 2 GHz o más
 
+//zeus
+
 <svg viewBox="0 0 960 300">
 	<symbol id="h-text">
-		<text text-anchor="middle" x="50%" y="80%">Ares os</text>
+		<text text-anchor="middle" x="50%" y="80%">Zeus os</text>
 	</symbol>
 
 	<g class = "g-ants">
