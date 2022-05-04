@@ -36,11 +36,10 @@
 - Contraseña: user
 - Contraseña root: ares
 
+## Zeus OS
 
 <g class = "neontex">
-	<h2 align="center">
-		Zeus OS
-	</h2>
+	<p align="center"> Zeus OS </p>
 </g>
 	
 <p align="center">
@@ -58,6 +57,11 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 </p>
 
 ## Donaciones 💲
+
+<div class="area">
+ ⚠ paga ⚠
+</div>
+
 <p align="center">Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena</p>
 <p align="center">
   <a href="https://www.paypal.me/aresystems?locale.x=es_ES"><img src="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg" width="100" height="60"> </a>
