@@ -5,11 +5,11 @@
 
 ## Ares OS
 <g class = "neontext">
-	<p align="center" > Ares OS </p>	
+	<p align="center">Ares OS</p>	
 </g>
 
 <header class="header">
-	<h1 class="glitched"></h1>
+	<p class="glitched"></p>
 </header>
 
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">
