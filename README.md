@@ -23,9 +23,9 @@
 </p>
 
 ### Requisitos minimos
-1. 25GB HDD
-2. 2GB RAM                                                                                                       
-3. CPU Dual-Core a 2GHz o más
+- 25GB HDD
+- 2GB RAM                                                                                                       
+- CPU Dual-Core a 2GHz o más
 
 ### Modo Live
 - Usuario: user
@@ -37,9 +37,9 @@
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo</p>
 
 ### Requisitos mínimos
-1. 20GB HDD
-2. 2GB RAM
-3. CPU Dual-Core a 1.4GHz o más
+- 20GB HDD
+- 2GB RAM
+- CPU Dual-Core a 1.4GHz o más
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
