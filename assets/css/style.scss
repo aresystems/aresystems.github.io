@@ -12,7 +12,7 @@ $medium-breakpoint: 42em !default;
 // Headers
 $header-heading-color: {{ site.color.header | default: "#FBFFFF" }} !default;
 $header-bg-color: {{ site.color.gradient_right | default: "#008DFF" }} !default;
-$header-bg-color-secondary: {{ site.color.gradient_left | default: "#5547AE" }} !default;
+$header-bg-color-secondary: {{ site.color.gradient_left | default: "#6700FF" }} !default;
 
 // Text
 $section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#FBFFFF" }} !default;
@@ -24,16 +24,16 @@ $blockquote-text-color: #114479 !default;
 //neon
 
 .neontext {
-  color: #f5f;
+  color: #f55;
   text-shadow:
-    0 0 7px #f5f,
-    0 0 10px #f5f,
-    0 0 21px #f5f,
-    0 0 42px #0fa,
-    0 0 82px #0fa,
-    0 0 92px #0fa,
-    0 0 102px #0fa,
-    0 0 151px #0fa;
+    0 0 14px #f55,
+    0 0 20px #f5f,
+    0 0 42px #f5f,
+    0 0 84px #0fa,
+    0 0 164px #0fa,
+    0 0 184px #0fa,
+    0 0 204px #0fa,
+    0 0 352px #0fa;
 }
 
 
