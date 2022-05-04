@@ -1,6 +1,5 @@
 # Ares Systems
 
-
 ## Nosotros 👥
 Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
 
@@ -62,7 +61,6 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
 </p>
 
- 
 ## Donaciones 💲
 Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
 <p align="center">
