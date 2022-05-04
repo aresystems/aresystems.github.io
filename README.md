@@ -33,11 +33,10 @@ Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y est�
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
 </p>
 
-requisitos minimos
-
--25GB HDD                                                                                                        
--1GB RAM                                                                                                          
--cpu doble núcleo a 2 GHz o más
+### Requisitos minimos
+1. 25GB HDD
+2. 2GB RAM                                                                                                       
+3. CPU dual-core a 2GHz o más
 
 
 
@@ -59,11 +58,10 @@ requisitos minimos
 Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft. 
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo.
 
-requisitos minimos
-
--20 GB HDD                                                                                                                                               
--2 GB RAM                                                                                                                                                 
--CPU DOBLE NÚCLEO A 1.4 GHz o más
+Requisitos mínimos
+1. 20 GB HDD
+2. 2 GB RAM
+3. CPU DOBLE NÚCLEO A 1.4 GHz o más
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
