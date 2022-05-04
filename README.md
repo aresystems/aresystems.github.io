@@ -4,7 +4,7 @@
 ## Nosotros 👥
 Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
 
-## Ares OS
+## Ares O
 <header class="header">
 	<h1 class="glitched"></h1>
 </header>
