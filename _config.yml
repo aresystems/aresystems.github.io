@@ -6,7 +6,7 @@ description: Una fundación sin ánimo de lucro más
 #logo: /docs/assets/logo.png
 #logo_url: https://i.imgur.com/IOHl7OT.png
 show_downloads: true
-darkmode: true
+darkmode: false
 hide_first_title: true
 #colors:
 #    gradient_left: "#F73718"
