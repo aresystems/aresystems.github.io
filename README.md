@@ -4,7 +4,6 @@
 <p align="center">Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre</p>
 
 ## Ares OS
-
 <g class = "neontext">
 	
 	<p align="center">  Ares os </p>
@@ -28,9 +27,12 @@
 2. 2GB RAM                                                                                                       
 3. CPU Dual-Core a 2GHz o más
 
+### Modo Live
+Usuario: user
+Contraseña: user
+Contraseña root: ares
+
 ## Zeus OS
-
-
 <p align="center">Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo</p>
 
