@@ -49,8 +49,8 @@
 	</g>
 </svg>
 
-Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
-Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo
+<p align="center">Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
+Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo</p>
 
 ### Requisitos mínimos
 1. 20GB HDD
@@ -62,7 +62,7 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 </p>
 
 ## Donaciones 💲
-Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
+<p align="center">Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena</p>
 <p align="center">
   <a href="https://www.paypal.me/aresystems?locale.x=es_ES"><img src="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg" width="100" height="60"> </a>
   <a href="https://ko-fi.com/aresystems79486"><img src="https://www.tuexperto.com/wp-content/uploads/2020/06/ko-fi-preguntas-y-respuestas-espanol.jpg" width="100" height="60"> </a>
@@ -70,7 +70,7 @@ Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena
 </p>
 
 ## Contacta 📞
-Si tienes cualquier pregunta contaca con nostros mediante este boton
+<p align="center">Si tienes cualquier pregunta contaca con nostros mediante este boton</p>
 <p align="center">
   <a id="imagen:hover" href="mailto:aresystems@protonmail.com?"><img src="https://protonmail.com/images/media/security/secured-by-protonmail-white.png"></a>
 </p>
