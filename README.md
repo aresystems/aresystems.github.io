@@ -61,8 +61,8 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 
 requisitos minimos
 
--20 GB HDD
--2 GB RAM
+-20 GB HDD                                                                                                                                               
+-2 GB RAM                                                                                                                                                 
 -CPU DOBLE NÚCLEO A 1.4 GHz o más
 
 <p align="center">
