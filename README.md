@@ -4,14 +4,13 @@
 ## Nosotros 👥
 Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre 
 
-
+## Ares OS
+Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización.
 
 <header class="header">
 	<h1 class="glitched">Glitch</h1>
 </header>
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
-
-
 
 <svg viewBox="0 0 960 300">
 	<symbol id="s-text">
@@ -27,8 +26,6 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 	</g>
 </svg>
 
-Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
-
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
 </p>
@@ -36,11 +33,9 @@ Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y est�
 ### Requisitos minimos
 1. 25GB HDD
 2. 2GB RAM                                                                                                       
-3. CPU dual-core a 2GHz o más
+3. CPU Dual-Core a 2GHz o más
 
-
-
-
+## Zeus OS
 <svg viewBox="0 0 960 300">
 	<symbol id="h-text">
 		<text text-anchor="middle" x="50%" y="80%">Zeus os</text>
@@ -58,10 +53,10 @@ Ares OS es una distro basada en MX Linux 21, utiliza la arquitectura i386 y est�
 Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft. 
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo.
 
-Requisitos mínimos
-1. 20 GB HDD
-2. 2 GB RAM
-3. CPU DOBLE NÚCLEO A 1.4 GHz o más
+### Requisitos mínimos
+1. 20GB HDD
+2. 2GB RAM
+3. CPU Dual-Core a 1.4GHz o más
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
