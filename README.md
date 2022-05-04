@@ -3,9 +3,8 @@
 ## Nosotros 👥
 <p align="center">Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre</p>
 
-## Ares OS
 <g class = "neontext">
-	<p align="center">Ares OS</p>	
+	<h2 align="center">Ares OS</h2>	
 </g>
 
 <header class="header">
