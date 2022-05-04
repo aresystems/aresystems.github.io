@@ -56,6 +56,10 @@ requisitos minimos
 	</g>
 </svg>
 
+Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft. 
+Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo.
+
+
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
 </p>
