@@ -3,21 +3,20 @@
 ## Nosotros 👥
 <p align="center">Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre</p>
 
+## Ares OS
 <g class = "neontext">
-	<h2 align="center">Ares OS</h2>	
+	<p align="center" > Ares OS </p>	
 </g>
 
 <header class="header">
-	<p class="glitched"></p>
+	<h1 class="glitched"></h1>
 </header>
 
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">
 	keys
 </a>
 
-<p align="center">
-	Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
-</p>
+<p align="center">Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización</p>
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
@@ -54,6 +53,11 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 </p>
 
 ## Donaciones 💲
+
+<div class="area">
+ ⚠ paga ⚠
+</div>
+
 <p align="center">Ayudanos a seguir adelante con nuestro proyecto poniendo tu granito de arena</p>
 <p align="center">
   <a href="https://www.paypal.me/aresystems?locale.x=es_ES"><img src="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg" width="100" height="60"> </a>
