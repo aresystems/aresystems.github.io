@@ -28,9 +28,9 @@
 3. CPU Dual-Core a 2GHz o más
 
 ### Modo Live
-Usuario: user
-Contraseña: user
-Contraseña root: ares
+- Usuario: user
+- Contraseña: user
+- Contraseña root: ares
 
 ## Zeus OS
 <p align="center">Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
