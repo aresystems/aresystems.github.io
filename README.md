@@ -35,9 +35,9 @@
 ## Zeus OS
 
 <g class = "neontex">
-	<p align="center">
-		Zeus OS
-	</p>
+	<p align="center"> Zeus OS </p>
+</g>
+	
 <p align="center">
 	Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo
