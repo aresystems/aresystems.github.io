@@ -4,6 +4,13 @@
 <p align="center">Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre</p>
 
 ## Ares OS
+
+<g class = "neontext">
+	
+	<p align="center">  Ares os </p>
+	
+</g>
+
 <header class="header">
 	<h1 class="glitched"></h1>
 </header>
@@ -76,6 +83,6 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 </p>
 
 <footer>
-  <p align="center">Autores: Carlos Quintos, Antonio Flores, Anuar Ezzaamouni</p>
-<p align="center"><a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="20" height="20"></a></p>
+  <p>Autores: Carlos Quintos, Antonio Flores, Anuar Ezzaamouni</p>
+  <a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="20" height="20"> </a>
 </footer>
