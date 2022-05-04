@@ -5,9 +5,7 @@
 
 ## Ares OS
 <g class = "neontext">
-	
-	<p align="center" width="600" height="400">  Ares os </p>
-	
+	<p align="center" width="600" height="400">Ares OS</p>	
 </g>
 
 <header class="header">
