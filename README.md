@@ -6,7 +6,7 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 
 ## Ares OS
 <header class="header">
-	<h1 class="glitched">Glitch</h1>
+	<h1 class="glitched"></h1>
 </header>
 <a class="inspiration-button" href="https://www.g2a.com/es/microsoft-windows-10-pro-microsoft-key-global-i10000083916004" target="_blank">keys</a>
 
@@ -24,7 +24,7 @@ Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarr
 	</g>
 </svg>
 
-Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización.
+Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
@@ -50,8 +50,8 @@ Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está p
 	</g>
 </svg>
 
-Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft. 
-Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo.
+Zeus OS 10 es una una versión modificada del Windows 10 original de Microsoft
+Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo
 
 ### Requisitos mínimos
 1. 20GB HDD
