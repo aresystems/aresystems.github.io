@@ -20,7 +20,7 @@ buttons:
     zip_title: Zeus OS
              (windows-amd64)
     zip_hide: false
-    tar_url: http://example.com/
+    tar_url: https://drive.google.com/uc?id=14ePXFlHrdmxVJHuEog2iKbYL0wCMcuQb&export=download&confirm=t
     tar_title: Ares OS
              (debian11-i386)
     tar_hide: false
