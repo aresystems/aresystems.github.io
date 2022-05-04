@@ -16,7 +16,9 @@
 	keys
 </a>
 
-<p align="center">Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización</p>
+<p align="center">
+	Ares OS es una distro basada en Debian 11, utiliza la arquitectura i386, está pensada para que funcione de forma óptima en todo tipo de equipos y que tenga nuestro toque de personalización
+</p>
 
 <p align="center">
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
