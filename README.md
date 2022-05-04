@@ -36,10 +36,11 @@
 - Contraseña: user
 - Contraseña root: ares
 
-## Zeus OS
 
 <g class = "neontex">
-	<p align="center"> Zeus OS </p>
+	<h2 align="center">
+		Zeus OS
+	</h2>
 </g>
 	
 <p align="center">
