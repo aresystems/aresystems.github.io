@@ -16,7 +16,7 @@ $header-bg-color-secondary: {{ site.color.gradient_left | default: "#6700FF" }} 
 
 // Text
 $section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#FBFFFF" }} !default;
-$body-text-color: #FFC08C !default;
+$body-text-color: #18B8E4 !default;
 $body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#FFF000" }} !default;
 $blockquote-text-color: #114479 !default;
 
