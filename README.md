@@ -64,6 +64,10 @@ Requisitos minimos
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo
 </p>
 
+<p align="center">
+ <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
+</p>
+
 <g class="requisitos">
 
     <h2>
@@ -77,9 +81,6 @@ Requisitos minimos
 - 2GB RAM
 - CPU Dual-Core a 1.4GHz o más
 
-<p align="center">
- <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
-</p>
 
 ## Donaciones 💲
 
