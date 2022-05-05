@@ -34,7 +34,15 @@ Nosotros
  <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
 </p>
 
-### Requisitos minimos
+<g class="requisitos">
+
+    <h2>
+	
+Requisitos minimos
+
+    </h2>
+    
+</g>
 - 25GB HDD
 - 2GB RAM                                                                                                       
 - CPU Dual-Core a 2GHz o más
