@@ -64,7 +64,15 @@ Requisitos minimos
 Incluye muchas mejoras, características nuevas y pequeños detalles que permitirán optimizar los recursos de tu equipo al máximo
 </p>
 
-### Requisitos mínimos
+<g class="requisitos">
+
+    <h2>
+	
+Requisitos minimos
+
+    </h2>
+    
+</g>
 - 20GB HDD
 - 2GB RAM
 - CPU Dual-Core a 1.4GHz o más
