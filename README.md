@@ -45,7 +45,7 @@ Requisitos minimos
 </g>
 - 25GB HDD
 - 2GB RAM                                                                                                       
-- CPU Dual-Core a 2GHz o más
+- Pentium 4, a 1GHz
 
 ### Modo Live
 - Usuario: user
@@ -79,7 +79,7 @@ Requisitos minimos
 </g>
 - 20GB HDD
 - 2GB RAM
-- CPU Pentium 4, a 1 GHz
+- CPU Dual-core, a 1.4 GHz
 
 
 ## Donaciones 💲
