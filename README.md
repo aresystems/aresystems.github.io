@@ -79,7 +79,7 @@ Requisitos minimos
 </g>
 - 20GB HDD
 - 2GB RAM
-- CPU Dual-Core a 1.4GHz o más
+- CPU Pentium 4, a 1 GHz
 
 
 ## Donaciones 💲
