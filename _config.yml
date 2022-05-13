@@ -2,9 +2,9 @@ remote_theme: tuur29/pages-themes-cayman
 theme: jekyll-theme-cayman
 lang: es-ES
 title: Ares Systems
-description: La mamá de la mamá de la mamá
+description: new digital age
 #logo: /docs/assets/logo.png
-#logo_url: https://i.imgur.com/IOHl7OT.png
+logo_url: https://github.com/aresystems/aresystems.github.io/blob/main/baixa.png?raw=true
 show_downloads: true
 darkmode: false
 hide_first_title: true
