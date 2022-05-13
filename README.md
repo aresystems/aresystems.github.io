@@ -103,8 +103,10 @@ Requisitos minimos
 
 <footer>
 <p align="center">Autores: Carlos Quintos, Antonio Flores, Anuar Ezzaamouni</p>
+<div>
 <p align="center"><a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="30" height="30"></a></p>
-<p align="center"><a href="https://github.com/aresystems"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="30" height="30"></a></p>
+<p align="center"><a href="https://github.com/aresystems"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"></a></p>
+</div>	
 </footer>
 
 
