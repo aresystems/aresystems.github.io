@@ -104,8 +104,8 @@ Requisitos minimos
 <footer>
 <p align="center">Autores: Carlos Quintos, Antonio Flores, Anuar Ezzaamouni</p>
 <p align="center"><a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="20" height="20"></a></p>
+<p align="center"><a href="https://github.com/aresystems"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="20" height="20"></a></p>
 </footer>
 
-p align="center"><a href="https://github.com/aresystems"><img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" width="20" height="20"></a></p>
-</footer>
+
 
