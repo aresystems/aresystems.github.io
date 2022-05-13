@@ -1,11 +1,7 @@
 # Ares Systems
 <g class="nosotros">
 
-    <h2>
-	
-Nosotros
-
-    </h2>
+## Nosotros
     
 </g>
 	  
