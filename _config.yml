@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 lang: es-ES
 title: Ares Systems
 description: new digital age
-logo: aresystems.github.io/baixa.png
+#logo: aresystems.github.io/baixa.png
 #logo_url: https://github.com/aresystems/aresystems.github.io/blob/main/baixa.png?raw=true
 show_downloads: true
 darkmode: false
@@ -23,5 +23,6 @@ buttons:
     tar_url: https://mega.nz/file/a8tnHa4R#iey_o1IVT33erK14hx_KcObNt7ftabp5I7RadXrXlUc
     tar_title: Ares OS
              Descargar
+    tar_title: Prueva
     tar_hide: false
     github_hide: true
