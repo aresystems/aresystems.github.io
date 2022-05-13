@@ -1,17 +1,16 @@
 # Ares Systems
 <g class="nosotros">
-
-## Nosotros
-    
+	<h2>
+		Nosotros
+	</h2>
 </g>
 	  
 <p align="center">Nosotros el equipo detrás de la fundación Ares Systems nos dedicamos al desarrollo de proyectos propios además   de promover el Código Abierto y el Software Libre</p>
 
-
 <g class = "neontext">
 	<h2 align="center">
 		Ares OS
-	</h2>	
+	</h2>
 </g>
 
 <header class="header">
