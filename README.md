@@ -43,10 +43,11 @@ Requisitos minimos
 - Pentium 4, a 1GHz
 
 ### Modo Live
-- Usuario: user
-- Contraseña: user
-- Contraseña root: ares
-
+```
+Usuario: user
+Contraseña: user
+Contraseña root: ares
+```
 
 <g class = "neontex">
 	<h2 align="center">
@@ -97,7 +98,7 @@ Requisitos minimos
 </p>
 
 <footer>
-<p align="center">Autores: Carlos Quintos, Antonio Flores, Anuar Ezzaamouni</p>
+<p align="center">Autores: [<a href="https://www.instagram.com/quintosnores/?hl=es">Carlos Quintos</a>], [<a href="https://www.instagram.com/_.antoniiofl/?hl=es">Antonio Flores</a>], [<a href="https://www.instagram.com/pasteldefresa._/?hl=es">Anuar Ezzaamouni</a>].</p>
 
 <p align="center">
 <a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="30" height="30"></a>
