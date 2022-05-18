@@ -106,6 +106,3 @@ Requisitos minimos
 <a href="https://github.com/aresystems"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"></a>
 </p>	
 </footer>
-
-
-
