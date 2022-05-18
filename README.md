@@ -100,9 +100,5 @@ Requisitos minimos
 <footer>
 <p align="center">Autores: [<a href="https://www.instagram.com/quintosnores/?hl=es">Carlos Quintos</a>], [<a href="https://www.instagram.com/_.antoniiofl/?hl=es">Antonio Flores</a>], [<a href="https://www.instagram.com/pasteldefresa._/?hl=es">Anuar Ezzaamouni</a>].</p>
 
-<p align="center">
-<a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="30" height="30"></a>
-
-<a href="https://github.com/aresystems"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"></a>
-</p>	
+<p align="center"><a href="https://www.instagram.com/aresystems.io/?hl=es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="" width="30" height="30"></a> <a href="https://github.com/aresystems"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" width="30" height="30"></a></p>
 </footer>
