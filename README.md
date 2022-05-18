@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
- <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="600" height="400"></a>
+ <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/aresos.png" width="450" height="263"></a>
 </p>
 
 <g class="requisitos">
