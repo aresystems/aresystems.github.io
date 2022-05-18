@@ -60,7 +60,7 @@ Incluye muchas mejoras, características nuevas y pequeños detalles que permiti
 </p>
 
 <p align="center">
- <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="600" height="400"></a>
+ <a href="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png"><img src="https://raw.githubusercontent.com/aresystems/aresystems.github.io/main/Zeus%20OS%2010.png" width="450" height="263"></a>
 </p>
 
 <g class="requisitos">
